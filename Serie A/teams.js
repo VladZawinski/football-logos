@@ -1,0 +1,61 @@
+module.exports = [{
+  imageUrl: "ac_milan.png",
+  name: "Ac_milan"
+}, {
+  imageUrl: "atalanta.png",
+  name: "Atalanta"
+}, {
+  imageUrl: "bologna.png",
+  name: "Bologna"
+}, {
+  imageUrl: "cremonese.png",
+  name: "Cremonese"
+}, {
+  imageUrl: "empoli.png",
+  name: "Empoli"
+}, {
+  imageUrl: "fiorentina.png",
+  name: "Fiorentina"
+}, {
+  imageUrl: "inter.png",
+  name: "Inter"
+}, {
+  imageUrl: "juventus.png",
+  name: "Juventus"
+}, {
+  imageUrl: "lazio.png",
+  name: "Lazio"
+}, {
+  imageUrl: "lecce.png",
+  name: "Lecce"
+}, {
+  imageUrl: "monza.png",
+  name: "Monza"
+}, {
+  imageUrl: "napoli.png",
+  name: "Napoli"
+}, {
+  imageUrl: "roma.png",
+  name: "Roma"
+}, {
+  imageUrl: "salernitana.png",
+  name: "Salernitana"
+}, {
+  imageUrl: "sampdoria.png",
+  name: "Sampdoria"
+}, {
+  imageUrl: "sassuolo.png",
+  name: "Sassuolo"
+}, {
+  imageUrl: "spezia.png",
+  name: "Spezia"
+}, {
+  imageUrl: "torino.png",
+  name: "Torino"
+}, {
+  imageUrl: "udinese.png",
+  name: "Udinese"
+}, {
+  imageUrl: "verona.png",
+  name: "Verona"
+}]

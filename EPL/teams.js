@@ -1,0 +1,52 @@
+module.exports = [{
+  imageUrl: "arsenal.png",
+  name: "Arsenal"
+}, {
+  imageUrl: "aston_villa.png",
+  name: "Aston_villa"
+}, {
+  imageUrl: "bournemouth.png",
+  name: "Bournemouth"
+}, {
+  imageUrl: "brentford.png",
+  name: "Brentford"
+}, {
+  imageUrl: "brighton.png",
+  name: "Brighton"
+}, {
+  imageUrl: "chelsea.png",
+  name: "Chelsea"
+}, {
+  imageUrl: "crystal_palace.png",
+  name: "Crystal_palace"
+}, {
+  imageUrl: "everton.png",
+  name: "Everton"
+}, {
+  imageUrl: "fulham.png",
+  name: "Fulham"
+}, {
+  imageUrl: "hotspurs.png",
+  name: "Hotspurs"
+}, {
+  imageUrl: "leeds.png",
+  name: "Leeds"
+}, {
+  imageUrl: "leicester.png",
+  name: "Leicester"
+}, {
+  imageUrl: "liverpool.png",
+  name: "Liverpool"
+}, {
+  imageUrl: "mancity.png",
+  name: "Mancity"
+}, {
+  imageUrl: "manu.png",
+  name: "Manu"
+}, {
+  imageUrl: "southampton.png",
+  name: "Southampton"
+}, {
+  imageUrl: "wolves.png",
+  name: "Wolves"
+}]
